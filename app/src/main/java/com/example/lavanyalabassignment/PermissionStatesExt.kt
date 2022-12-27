@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.PermissionState

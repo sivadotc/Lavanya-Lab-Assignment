@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Siva Lab Assignment"
+rootProject.name = "Lavanya Lab Assignment"
 include ':app'

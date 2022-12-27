@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 
 import androidx.compose.foundation.background
@@ -12,8 +12,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.example.ramyalabassignment.ui.theme.LightGreen1
-import com.example.ramyalabassignment.ui.theme.Typography
+import com.example.lavanyalabassignment.ui.theme.LightGreen1
+import com.example.lavanyalabassignment.ui.theme.Typography
 
 
 @Composable

@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -13,7 +13,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.example.ramyalabassignment.ui.theme.*
+import com.example.lavanyalabassignment.ui.theme.*
 
 @Composable
 fun ProfileScreen(){
@@ -44,7 +44,7 @@ fun PhotoAndName(){
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Image(painterResource(id = R.drawable.girl), contentDescription = null, modifier = Modifier.size(150.dp))
-        Text(text = "Ramya", style = Typography.h1)
+        Text(text = "Lavanya", style = Typography.h1)
     }
 }
 

@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 import android.widget.Toast
 import androidx.compose.foundation.background
@@ -19,13 +19,14 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.ramyalabassignment.ui.theme.*
+import com.example.lavanyalabassignment.ui.theme.*
+
 
 @Composable
 fun HomeCompactScreen(){
     Column {
-        GreetingSection(name = "Ramya")
-        ChipSection(chips = listOf("Ramya","2019WA86533","Lab 3","SDPD","CSIWZ424"))
+        GreetingSection(name = "Lavanya")
+        ChipSection(chips = listOf("Lavanya","2019WB86302","Lab 4","SDPD","CSIWZC424"))
         ObjectiveSection()
         CurrentLabSection()
     }
@@ -124,7 +125,7 @@ fun ObjectiveSection() {
                 .fillMaxWidth()
         ) {
             Text(
-                text = "Lab 3 Objective",
+                text = "Lab 4 Objective",
                 style = Typography.h1
             )
             Spacer(modifier = Modifier.height(10.dp))
@@ -173,3 +174,4 @@ fun CurrentLabSection(){
 
     }
 }
+

@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 
 import androidx.compose.foundation.layout.*
@@ -16,7 +16,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
-import com.example.ramyalabassignment.ui.theme.Typography
+import com.example.lavanyalabassignment.ui.theme.Typography
 
 
 @Composable

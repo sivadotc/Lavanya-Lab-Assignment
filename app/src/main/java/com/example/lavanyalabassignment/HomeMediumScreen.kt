@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -11,7 +11,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
-import com.example.ramyalabassignment.ui.theme.*
+import com.example.lavanyalabassignment.ui.theme.*
 
 @Composable
 fun HomeMediumScreen() {
@@ -20,8 +20,8 @@ fun HomeMediumScreen() {
             Column(modifier = Modifier
                 .weight(0.75f)
                 .fillMaxSize(), verticalArrangement = Arrangement.SpaceEvenly) {
-                GreetingSection(name = "Ramya")
-                ChipSectionMedium(chips = listOf("Ramya","2019WA86533","Lab 3","SDPD","CSIWZ424"))
+                GreetingSection(name = "Lavanya")
+                ChipSectionMedium(chips = listOf("Lavanya","2019WB86302","Lab 4","SDPD","CSIWZC424"))
 
             }
             Column(modifier = Modifier

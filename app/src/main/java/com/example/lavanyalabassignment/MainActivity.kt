@@ -1,4 +1,4 @@
-package com.example.ramyalabassignment
+package com.example.lavanyalabassignment
 
 
 import android.os.Bundle
@@ -12,7 +12,7 @@ import androidx.compose.material.icons.filled.List
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
-import com.example.ramyalabassignment.ui.theme.*
+import com.example.lavanyalabassignment.ui.theme.*
 
 
 
